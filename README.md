@@ -20,7 +20,7 @@ This project focuses on predicting credit card scores using Logistic Regression 
 5. Model Evaluation
 
 ## 📊 Results
-- Accuracy: ~96–97%
+- Accuracy: ~78%
 - Model performs well for non-risk customers
 - Slight limitation in predicting high-risk customers due to class imbalance
 
